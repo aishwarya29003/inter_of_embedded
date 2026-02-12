@@ -2,5 +2,5 @@
 int main()
 {
      int var=13;
-    printf("var value is%d\n",var)
+    printf("var value is %d\n",var)
 }
